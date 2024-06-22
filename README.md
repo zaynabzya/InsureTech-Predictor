@@ -16,7 +16,7 @@ This project predicts insurance costs using machine learning models based on dem
 To run the project, follow these steps:
 
 ```bash
-git clone https://github.com/yourusername/insurance-cost-prediction.git
+git clone https://github.com/zaynabzya/InsureTech-Predictor.git
 cd insurance-cost-prediction
 pip install -r requirements.txt
 ```
